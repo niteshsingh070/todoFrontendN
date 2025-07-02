@@ -214,7 +214,7 @@ function App() {
         </ul>
       </main>
       <footer className="bg-orange-500 text-white p-4 mt-auto text-center shadow-inner">
-        © 2025 Your To-Do App
+        © 2025 Your To-Do App By Nitesh Singh
       </footer>
     </div>
   );
